@@ -1,0 +1,28 @@
+15 6 1 1 E 1
+
+W 3 1 E
+W 3 2 E
+W 3 3 E
+W 3 4 E
+W 5 4 N
+W 4 4 N
+W 6 4 N
+W 6 4 E
+W 6 3 E
+W 6 2 E
+W 6 1 E
+W 7 1 E
+W 8 1 E
+W 8 2 E
+W 9 1 E
+W 9 2 E
+W 9 3 E
+W 11 1 E
+W 11 2 E
+W 11 3 E
+W 12 3 N
+W 12 2 E
+W 12 1 E
+W 12 3 E
+
+B 14 1 1
