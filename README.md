@@ -36,18 +36,18 @@ Each problemset was closed with a maximum score, all checks were passed. The aut
 Hyperlinks to WebArchive are embedded in the text, so that the assignment can be accessed at any time. If the page does not load, just wait a little longer.
 
  - [Problem Set 1: Karel the Robot](https://web.archive.org/web/20240324150342/https://kurzy.kpi.fei.tuke.sk/zap/problemsets/ps-01.html)
-	 - Available Makefile commands `make [file name] (make task_1, make task_2, ...)`.
+	 - Available Makefile commands `make [file name] (make task_1, make task_2, ...)`
 	 - The `test_worlds` directory contains worlds made by the author for testing algorithms in different worlds with different conditions. To run a test world, you need to specify the path to the file in `task_<task_number>.c`. Example: `turn_on(“test_worlds/task_1_test_1.kw”);` Don't forget to specify the name of the main world when submitting the task.
  - [Problem Set 2: Numbers, Arrays](https://web.archive.org/web/20240324150342/https://kurzy.kpi.fei.tuke.sk/zap/problemsets/ps-02.html)
-	 - Available Makefile `make all` commands
+	 - Available Makefile commands `make all`
  - [Problem Set 3: Hangman & Morse](https://web.archive.org/web/20240324150342/https://kurzy.kpi.fei.tuke.sk/zap/problemsets/ps-03.html)
-	 - Available Makefile commands `make all / make clean` [Problem Set 4: Ball Sort 3: Hangman & Morse]().
+	 - Available Makefile commands `make all / make clean`
  - [Problem Set 4: Ball Sort Puzzle & Connect Four](https://web.archive.org/web/20240324150342/https://kurzy.kpi.fei.tuke.sk/zap/problemsets/ps-04.html)
- 	 - Available Makefile `make all / make clean` commands
+ 	 - Available Makefile commands `make all / make clean`
  - [Problem Set 5: QR Code](https://web.archive.org/web/20240324150344/https://kurzy.kpi.fei.tuke.sk/zap/problemsets/ps-05.html)
 	 - Available Makefile commands `make all`
  - [Problem Set 6: Curses](https://web.archive.org/web/20240324150344/https://kurzy.kpi.fei.tuke.sk/zap/problemsets/ps-06.html)
 	 - [Link to PS6 repository](https://github.com/mon1t0r/Pac-Man-ASCII)
 	 - This problem set is about creating an original game using the ncurses library. Since this task is large and looks more like an independent project, Problem Set 6 has been moved to a separate repository.
  - [Problem Set 7: Files](https://web.archive.org/web/20240324150342/https://kurzy.kpi.fei.tuke.sk/zap/problemsets/ps-07.html)
-   - Available Makefile commands `make [file name] (make count_words, make every_second, ...)`.
+   - Available Makefile commands `make [file name] (make count_words, make every_second, ...)`
