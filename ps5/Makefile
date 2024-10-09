@@ -2,8 +2,12 @@
 CC=gcc
 CFLAGS=-std=c11 -Werror -Wall
 LDLIBS=-lm
-OUTPUT=$@
+OUTPUT=qr
 
 # targets
-%: %.c
-	$(CC) $(CFLAGS) $@.c $(LDLIBS) -o $(OUTPUT)
+all: $(OUTPUT)
+
+qr: qr.c
+	$(CC) $(CFLAGS) qr.c $(LDLIBS) -o $(OUTPUT)
+
+
